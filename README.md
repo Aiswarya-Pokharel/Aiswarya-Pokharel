@@ -7,8 +7,8 @@
 - &#127760; Personal Portfolio: **https://aiswaryapokharel.com.np/**
 
 
-<h1 align="left"><b>Connect with me:</b></h1>
-<h2 align="left">📫 Connect with me:</h2>
+<h1 align="left"><b>📫 Connect with me:</b></h1>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aiswarya-pokharel-5a5915365/" target="_blank">
